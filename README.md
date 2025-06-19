@@ -10,7 +10,7 @@ In this example, we are using that output file to plot time series data for cell
 
 On top right, it shows timepoint-by-timepoint unpaired permutation comparsions (alpha = 0.05) between the two cell types.
 
-On bottom right, it performs an unpaired permutation to examine differences in area under curve between the two cell types.
+On bottom right, it performs an unpaired permutation to examine differences in area under curve during the delay window period between the two cell types.
 
 
 
