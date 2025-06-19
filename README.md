@@ -8,9 +8,9 @@ In this example, we are using that output file to plot time series data for cell
 1. excitation to both trial initiation and delay period (code:  AT+_AD+)
 2. no response to both trial initiation and delay period (code:  AT0_AD0)
 
-On top right, it shows timepoint-by-timepoint unpaired permutation comparsions (alpha = 0.05) between the two cell types.
+On top right, it is showing timepoint-by-timepoint unpaired permutation comparsions (alpha = 0.05) between the two cell types.
 
-On bottom right, it performs an unpaired permutation to examine differences in area under curve during the delay window period between the two cell types.
+On bottom right, it is showing an unpaired permutation for examining differences in area under curve during the delay window period between the two cell types.
 
 
 
