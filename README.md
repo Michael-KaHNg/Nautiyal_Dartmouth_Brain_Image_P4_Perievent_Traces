@@ -1,4 +1,4 @@
-# For Plotting Perievent Traces and basic statistical comparsions
+# For Plotting Perievent Traces and Basic Statistical Comparsions
 
 We have an output file from [Nautiyal_Dartmouth_Brain_Image_P3_Perievent_Analysis]
 (_Avg_Cell_Traces_zNorm_Signal_||All_Trials||_|5s_bfr_Trial_Initi_End|-|5s_aft_Trial_Initi_End|_filtered_behav_added-DS1122-P6_3-S1-Sucrose-Reduced)
